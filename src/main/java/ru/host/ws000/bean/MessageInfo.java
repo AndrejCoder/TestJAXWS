@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package ru.host.ws000.ws;
+package ru.host.ws000.bean;
 
 import ru.host.ws000.bean.MessageType ;
 
